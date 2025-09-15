@@ -2,7 +2,7 @@
 <h3 align="center">🚀 3rd Year BTech Student | Data Science & MLOps Enthusiast | Exploring Machine Learning, AI, Cloud & Deep Learning 💡 Passionate about Python, SQL, Docker, Kubernetes & Cloud</h3>
 
 - 🌱 I’m currently learning **Deep Learning, MLOps, Cloud Technologies (AWS/GCP)**
-- 🏢 Working at **[Your Organization Name]**
+- 🏢 Working at **[@Kubeflow]**
 - 📫 How to reach me **aniketpatil1121@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
